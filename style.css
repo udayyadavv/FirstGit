@@ -20,7 +20,7 @@
   }
   
   header {
-    background: #f4f4f4;
+    background: #87e00a;
     padding: 1rem;
     text-align: center;
   }
@@ -34,7 +34,7 @@
   
   #my-form {
     padding: 2rem;
-    background: #f4f4f4;
+    background: #e9540a;
   }
   
   #my-form label {
@@ -46,7 +46,7 @@
     padding: 8px;
     margin-bottom: 10px;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #1f0de5;
   }
   
   .btn {
@@ -70,7 +70,7 @@
   }
   
   .error {
-    background: orangered;
+    background: rgb(255, 0, 0);
     color: #fff;
     padding: 5px;
     margin: 5px;
